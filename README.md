@@ -29,3 +29,11 @@ They want to target different customers with applicable marketing campaigns to s
  9.- What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
  
  10.- What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
+
+ # Project Tasks & Deliverables
+ 
+Exercise 4: Data Wrangling & Subsetting
+ ● Change datatypes of identifier variables into more suitable types and rename columns where needed
+ ● Accessvalues and determine their meaning using a data dictionary
+ ● Create new dataframes based on a certain criteria
+ ● Answer questions about user activities based on variable frequencies
