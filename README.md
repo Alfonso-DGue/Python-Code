@@ -33,7 +33,11 @@ They want to target different customers with applicable marketing campaigns to s
  # Project Tasks & Deliverables
  
 Exercise 4: Data Wrangling & Subsetting
+
  ● Change datatypes of identifier variables into more suitable types and rename columns where needed
+ 
  ● Accessvalues and determine their meaning using a data dictionary
+ 
  ● Create new dataframes based on a certain criteria
+ 
  ● Answer questions about user activities based on variable frequencies
