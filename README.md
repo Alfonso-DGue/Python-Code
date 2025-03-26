@@ -32,7 +32,7 @@ They want to target different customers with applicable marketing campaigns to s
 
  # Project Tasks & Deliverables
  
-Exercise 4: Data Wrangling & Subsetting
+## Exercise 4: Data Wrangling & Subsetting
 
  ● Change datatypes of identifier variables into more suitable types and rename columns where needed
  
@@ -41,3 +41,47 @@ Exercise 4: Data Wrangling & Subsetting
  ● Create new dataframes based on a certain criteria
  
  ● Answer questions about user activities based on variable frequencies
+
+ ## Exercise 5: Data Consistency Checks
+ 
+ ● Fixmixed-type variables
+ 
+ ● Uncover and deal with missing values
+ 
+ ● Uncover and remove duplicates
+
+ ## Exercise 6: Combining & Exporting Data
+ 
+ ● Merge a set of given dataframes
+ 
+ ● Analyze results from merge flag frequencies
+ 
+ ● Export merged data as apickle file
+ 
+ ## Exercise 7: Deriving New Variables
+ 
+ ● Create new columns using conditional logic in the form of if-statements, user-defined functions, the loc() function, and for-loops
+ 
+ ## Exercise 8: Grouping & Aggregating Data
+ 
+ ● Create flags, for instance, a loyalty flag, and place them in new columns
+ 
+ ● Create summary columns of descriptive statistics using the groupby() function
+ 
+ ## Exercise 9: Intro to Data Visualization with Python
+ 
+ ● Import and prepare a customer data set
+ 
+ ● Merge customer data with other project data
+ 
+ ● Create histograms, bar charts, line charts, and scatterplots for different variables and relationships between variables
+
+ ## Exercise 10: Coding Etiquette & Excel Reporting
+ 
+ ● Create new columns and flag susing customer data to inform customer profiling
+ 
+ ● Analyze order behavior of different customer groups
+
+ ● Summarize analysis findings and describe what connections in the data you’ve found
+
+ ● Create a report that describes your analysis methodology, your results, and your recommendations for Instacart stakeholders
