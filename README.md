@@ -17,6 +17,7 @@ They want to target different customers with applicable marketing campaigns to s
  4.- Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
  
  The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
+ 
  5.- What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
  
  6.- Are there differences in ordering habits based on a customer’s loyalty status?
